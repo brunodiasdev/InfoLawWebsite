@@ -11,14 +11,17 @@ body{
 /* ----------- configuração do menu------------- */
 #menu li{
     list-style-type: none;
-    float: right;
+    float: left;
     border: solid 1px black;
-    margin-left: 5px;
+    margin: 5px;
     padding: 5px;
     background-color: brown;
 }
 #menu img{
     width: 150px;
     display: inline;
+}
+#menu input{
+    margin-top: 10px;
 }
 
