@@ -7,11 +7,17 @@ body{
     background-color: #e5e5e5;
     margin: 0 10pt 0 10pt;
 }
+
+/* ----------- configuração do menu------------- */
 #menu li{
     list-style-type: none;
-    float: left;
+    float: right;
+    border: solid 1px black;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: brown;
 }
 #menu img{
-    width: 200px;
+    width: 150px;
 }
 
