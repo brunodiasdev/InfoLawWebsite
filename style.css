@@ -7,7 +7,8 @@ body{
     background-color: #c09e72;
     margin: 0 10pt 0 10pt;
 }
-#menu{
-    
+#menu li{
+    list-style-type: none;
+    float: left;
 }
 
