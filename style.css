@@ -11,4 +11,7 @@ body{
     list-style-type: none;
     float: left;
 }
+#menu img{
+    width: 200px;
+}
 
