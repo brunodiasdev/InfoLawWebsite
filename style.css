@@ -20,10 +20,10 @@ body{
 #menu img{
     margin-top: 10pt;
     width: 150px;
-    display: inline;
+    display: block;
 }
 #menu ul{
-    display: inline-block;
+    display: inline;
 }
 #menu input{
     margin-top: 10px;
