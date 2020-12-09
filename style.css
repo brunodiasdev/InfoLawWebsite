@@ -22,6 +22,10 @@ body{
     width: 150px;
     display: inline;
 }
+#menu ul{
+    display: inline-block;
+    margin-left: 50%;
+}
 #menu input{
     margin-top: 10px;
 }
