@@ -20,7 +20,7 @@ body{
 #menu img{
     margin-top: 10pt;
     width: 150px;
-    display: block;
+    display: inline;
 }
 #menu ul{
     display: inline;
