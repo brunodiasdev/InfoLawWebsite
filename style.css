@@ -19,6 +19,10 @@ body{
     background-color: rgb(10, 4, 95);
     width: 120pt;
 }
+#menu ul{
+    position: static;
+    float: right;
+}
 #menu img{
     margin-top: 10pt;
     width: 150px;
