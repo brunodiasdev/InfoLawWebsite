@@ -21,6 +21,7 @@ body{
     margin-top: 10pt;
     width: 150px;
     display: inline;
+    float: left;
 }
 #menu ul{
     display: inline;
