@@ -23,7 +23,9 @@ body{
 #menu ul{
     position: absolute;
     float: right;
-    margin-top: 60px;
+    margin-top: 32px;
+    padding: 5px;
+    margin-right: 13px;
     background-color: #e5e5e5;
 }
 #menu img{
