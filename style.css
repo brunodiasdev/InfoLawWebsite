@@ -15,6 +15,7 @@ body{
     border: solid 1px rgb(0, 0, 0);
     color: rgb(211, 168, 27);
     margin: 5px;
+    margin-left: 0px;
     padding: 5px;
     background-color: rgb(10, 4, 95);
     width: 120pt;
