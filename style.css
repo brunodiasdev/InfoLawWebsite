@@ -20,7 +20,7 @@ body{
     width: 120pt;
 }
 #menu ul{
-    position: static;
+    position: absolute;
     float: right;
 }
 #menu img{
