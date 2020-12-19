@@ -44,5 +44,6 @@ body{
 }
 /*------------ article -------------*/
 section{
-    margin-top: 200px;
+    margin-top: 350px;
+    border-top: solid 2px black;
 }
