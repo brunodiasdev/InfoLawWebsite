@@ -46,4 +46,6 @@ body{
 section{
     margin-top: 350px;
     border-top: solid 2px black;
+    border-bottom: solid 2px black;
+
 }
