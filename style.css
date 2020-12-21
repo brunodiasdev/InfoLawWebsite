@@ -91,9 +91,12 @@ section article{
 .escritor{
     width: 80px;
     border-radius: 100px;
-    
+    display: inline;
 }
 #infoescritor{
+    display: inline;
+    margin-top: 100px;
+    font-size: 10pt;
 
 }
 /*----------------RODAPÉ-----------------*/
