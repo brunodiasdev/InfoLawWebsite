@@ -38,6 +38,12 @@ body{
     margin-right: 13px;
     /*background-color: #e5e5e5;*/
 }
+#topmenu{
+    background-color: #6e6c6c;
+    padding: 5px;
+    border: solid 1px black;
+    box-shadow: 5px 5px 15px black;
+}
 #menu input{
     margin: 5px;
     background-color: rgb(214, 215, 216);
