@@ -88,6 +88,14 @@ section article{
     box-shadow: 5px 5px 15px black;
     padding: 5px;
 }
+.escritor{
+    width: 80px;
+    border-radius: 100px;
+    
+}
+#infoescritor{
+
+}
 /*----------------RODAPÉ-----------------*/
 #rodape{
     background-color: rgba(0, 0, 0, 0.288);
