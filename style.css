@@ -69,8 +69,16 @@ section article{
 }
 .refcont{
     margin-top: 5px;
+    margin-bottom: 15px;
     background-color: rgb(27, 27, 68);
     border: solid 1px black;
     box-shadow: 5px 5px 15px black;
     padding: 5px;
+}
+/*----------------RODAPÉ-----------------*/
+#rodape{
+    background-color: rgba(0, 0, 0, 0.288);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
