@@ -50,6 +50,11 @@ section{
     text-align: justify;
 
 }
+section article{
+    background-color: rgb(102, 104, 104);
+    padding: 4px;
+    border: solid 2px black;
+}
 .refcont{
     margin-top: 5px;
     background-color: rgb(27, 27, 68);
