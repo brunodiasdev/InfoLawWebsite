@@ -11,6 +11,12 @@ body{
 }
 
 /* ---- configuração do menu--------- */
+#capamenu{
+    background-image: url(image/skyline-936589_1920.jpg);
+    background-size: cover;
+    height: 500px;
+
+}
 #menu li{
     list-style-type: none;
     float: left;
@@ -21,6 +27,8 @@ body{
     padding: 5px;
     background-color: rgb(10, 4, 95);
     width: 120pt;
+    
+    box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.897);
 }
 #menu ul{
     position: absolute;
@@ -28,7 +36,7 @@ body{
     margin-top: 70px;
     padding: 5px;
     margin-right: 13px;
-    background-color: #e5e5e5;
+    /*background-color: #e5e5e5;*/
 }
 #menu img{
     margin-top: 10pt;
@@ -44,7 +52,7 @@ body{
 }
 /*------------ article -------------*/
 section{
-    margin-top: 350px;
+    margin-top: 0px;
     border-top: solid 2px black;
     border-bottom: solid 2px black;
     text-align: justify;
