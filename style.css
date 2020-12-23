@@ -88,6 +88,13 @@ section article{
     box-shadow: 5px 5px 15px black;
     padding: 5px;
 }
+.refcont img{
+    width: 100px;
+}
+.textotitulo {
+    display: inline;
+    background-color: lawngreen;
+}
 .escritor{
     width: 80px;
     border-radius: 100px;
