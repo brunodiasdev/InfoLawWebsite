@@ -108,6 +108,7 @@ section article{
 }
 .textotitulo h3{
     padding-left: 10px;
+    font-family: FreeMono, monospace;
 }
 .escritor{
     width: 80px;
