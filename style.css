@@ -95,7 +95,8 @@ section article{
 .textotitulo{
     display: inline;
     color: yellow;
-    margin: 5% 0% 5% 20%;
+    text-align: justify;
+    text-align: left;
 }
 .escritor{
     width: 80px;
