@@ -98,6 +98,9 @@ section article{
     text-align: justify;
     text-align: left;
 }
+.textotitulo h3{
+    padding-left: 10px;
+}
 .escritor{
     width: 80px;
     border-radius: 100px;
