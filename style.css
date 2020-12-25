@@ -87,6 +87,7 @@ section article{
     border: solid 1px black;
     box-shadow: 5px 5px 15px black;
     padding: 5px;
+    width: 340px;
 }
 .refcont img{
     width: 100px;
