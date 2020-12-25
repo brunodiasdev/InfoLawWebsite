@@ -93,6 +93,9 @@ section article{
     width: 100px;
     
 }
+.refcont tr{
+    border: solid black 2px;
+}
 .textotitulo{
     display: inline;
     color: yellow;
