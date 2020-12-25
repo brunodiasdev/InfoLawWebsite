@@ -100,6 +100,11 @@ section article{
 .refcont table{
     border: solid black 1px;
 }
+.refcont table:hover{
+    transition: all 0.5s linear;
+    transform: scale(1.02);
+    opacity: 0.8;
+}
 .textotitulo{
     display: inline;
     color: yellow;
