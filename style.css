@@ -100,10 +100,10 @@ section article{
 .refcont table{
     border: solid black 1px;
 }
-.refcont table:hover{
-    transition: all 0.5s linear;
+.refcont:hover{
+    transition: all 0.3s linear;
     transform: scale(1.02);
-    opacity: 0.8;
+    opacity: 0.9;
 }
 .textotitulo{
     display: inline;
