@@ -98,7 +98,7 @@ section article{
     
 }
 .refcont table{
-    border: solid black 12px;
+    border: solid black 2px;
 }
 .refcont:hover{
     transition: all 0.3s linear;
