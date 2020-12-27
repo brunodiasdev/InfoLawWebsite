@@ -4,5 +4,5 @@ function imprimir (item, i, cas){
 }
 n1.forEach (imprimir)
 n1.forEach(function(a, b){
-    
+    console.log(a, b)
 })
