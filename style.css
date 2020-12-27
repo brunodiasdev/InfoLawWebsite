@@ -101,7 +101,7 @@ section article{
     border: solid black 1px;
 }
 .refcont:hover{
-    transition: all 0.2s linear;
+    transition: all 0.3s linear;
     transform: scale(1.02);
     opacity: 0.9;
 }
