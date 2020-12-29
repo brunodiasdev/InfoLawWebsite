@@ -97,9 +97,6 @@ section article{
     box-shadow: 1px 1px 15px rgb(3, 3, 3);
     
 }
-.refcont table{
-    border: solid black 2px;
-}
 .refcont:hover{
     transition: all 0.3s linear;
     transform: scale(1.02);
