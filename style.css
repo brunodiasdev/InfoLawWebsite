@@ -87,7 +87,7 @@ section article{
 .refcont{
     margin-top: 5px;
     margin-bottom: 15px;
-    background-color: rgb(8, 115, 185);
+    background-color: rgb(255, 255, 255);
     border: solid 1px black;
     box-shadow: 5px 5px 15px black;
     padding: 10px;
@@ -108,7 +108,7 @@ section article{
 }
 .textotitulo{
     display: inline;
-    color: yellow;
+    color: rgb(0, 0, 0);
     text-align: justify;
     text-align: left;
 }
