@@ -38,6 +38,7 @@ body{
 }
 a{
     text-decoration: none;
+    color: inherit;
 }
 #menu ul{
     /*position: absolute;*/
