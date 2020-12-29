@@ -108,6 +108,13 @@ section article{
     text-align: justify;
     text-align: left;
 }
+.textodescricao{
+    display: inline;
+    color: yellow;
+    text-align: justify;
+    text-align: left;
+    font-size: 10pt;
+}
 .textotitulo h3{
     padding-left: 10px;
     font-family: FreeMono, monospace;
