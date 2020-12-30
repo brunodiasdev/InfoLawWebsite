@@ -1,8 +1,12 @@
-const n1 = ["casa", "escola", "carro"]
-function imprimir (item, i, cas){
-    console.log(`${i + 1}, ${item}`)
+function triangulo (l1, l2, l3){
+    if (l1 === l2 && l2 === l3){
+        return `É um triangulo equilátero: Lado 1 (${l1}) - Lado 2 (${l2}) - Lado 3 (${l3}) `
+    } else if (l1!== l2 && l2 !== l3 && l3!==l1){
+        return `É um triangulo Escaleno: Lado 1 (${l1}) - Lado 2 (${l2}) - Lado 3 (${l3})`
+    } else if (l1 == l2 || l2 == l3 || l3 == l1){
+        return `Temos aqui um triangulo Isósceles: Lado 1 (${l1}) - Lado 2 (${l2}) - Lado 3 (${l3})`
+    } 
 }
-n1.forEach (imprimir)
-n1.forEach(function(a, b, c, d){
-    console.log(a, b, c, 3)
-})
+console.log(triangulo(2,2,2))
+console.log(triangulo(2,3,4))
+console.log(triangulo(2,3,2))
