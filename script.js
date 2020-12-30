@@ -7,6 +7,3 @@ function triangulo (l1, l2, l3){
         return `Temos aqui um triangulo Isósceles: Lado 1 (${l1}) - Lado 2 (${l2}) - Lado 3 (${l3})`
     } 
 }
-console.log(triangulo(2,2,2))
-console.log(triangulo(2,3,4))
-console.log(triangulo(2,3,2))
