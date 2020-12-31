@@ -76,9 +76,7 @@ a{
 }
 /*------------------Configuração navegação pag inicial---------------*/
 .navArtigo{
-    background-color: rgb(253, 253, 253);
-    display: block;
-}
+ 
 /*------------ article -------------*/
 section{
     margin-top: 0px;
