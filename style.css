@@ -76,6 +76,8 @@ a{
 }
 /*------------------Configuração navegação pag inicial---------------*/
 .navArtigo{
+    display: inline;
+}
  
 /*------------ article -------------*/
 section{
@@ -98,7 +100,6 @@ section article{
     box-shadow: 5px 5px 15px black;
     padding: 10px;
     width: 335px;
-
 }
 .refcont img{
     width: 100px;
