@@ -1,1 +1,4 @@
-function restodadivisao{}
+function restodadivisao(a,b){
+    return a%b
+}
+console.log
