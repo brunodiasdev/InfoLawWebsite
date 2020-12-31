@@ -1,4 +1,4 @@
 function potencia(a, b){
-    console.log(a**b)
+    return a**b
 }
-potencia(4,2)
+console.log(potencia(4,2))
