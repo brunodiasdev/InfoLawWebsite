@@ -1,4 +1,4 @@
 function restodadivisao(a,b){
     return a%b
 }
-console.log(restoda)
+console.log(restodadivisao(10,2))
