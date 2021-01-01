@@ -76,7 +76,42 @@ a{
 }
 /*------------------Configuração navegação pag inicial---------------*/
 .navArtigo{
-    display: inline;
+    display: inline;    
+}
+.corponav{
+    background-color: white;
+    padding: 20px;
+    margin-top: 15px;
+}
+.navConteiner{
+    display: inline-block;
+    margin:10px 10px 0 0;
+    width: 320px;
+    border-right: solid  rgb(94, 140, 238) 1px;
+}
+.refcontimg{
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+    border: solid 1px rgb(5, 5, 5);
+    box-shadow: 1px 1px 15px rgb(3, 3, 3);
+    margin-right: 15px;
+}
+.tituloposition{
+    background-color: rgb(94, 140, 238);
+    padding: 5px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.tituloposition h1{
+    margin: 0px;
+}
+.imgposition{
+    display: inline-block;
+}
+.textoposition{
+    display: inline-block;
+    width: 180px;
 }
  
 /*------------ article -------------*/
@@ -148,3 +183,9 @@ section article{
     margin-top: 20px;
     text-align: center;
 }
+@media  (min-width: 1200px) {
+    #background1{
+        margin-left: 18%;
+        margin-right: 18%;
+    }
+    }*/
