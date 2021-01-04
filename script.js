@@ -1,4 +1,5 @@
-function teste (num, div = 3 ){
-    let ano
+function teste (ano,  ){
+    let ano = 0
+    for(ano = 0; ano /4 )
 }
 teste(9)// Feito!
