@@ -5,4 +5,4 @@ function teste (num, div = 3 ){
         console.log(`OPS! ${num} Não é divisível por ${div}!`)
     }
 }
-teste(9)
+teste(9)// Feito!
