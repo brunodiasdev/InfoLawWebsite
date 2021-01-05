@@ -1,5 +1,6 @@
-function teste (ano,  ){
-    let ano = 0
-    for(ano = 0; ano /4 )
-}
-teste(9)
+$(document).ready(function(){
+    $('.menu-anchor').on('click touchstart', function(e){
+      $('html').toggleClass('menu-active');
+        e.preventDefault();
+    });
+  })
